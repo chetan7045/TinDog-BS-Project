@@ -1,7 +1,7 @@
 # TinDog-BS-Project
-We are going ahead with Bootstrap and with Angela from Udemy creating our Tindog project with basically is a tinder web-app for dogs
+We are going ahead with Bootstrap and with Angela from Udemy creating our Tindog project which basically is a Tinder web app for dogs
 
-This project consist of following sections.
+This project consists of the following sections.
 1) Index 
 2) Core values
 3) Testimonials
